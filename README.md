@@ -5,7 +5,6 @@
 <a href="https://fralfaro.github.io/python_testing/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
-
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/static--analysis-black%20flake8-black"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/testing-pytest-black"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/documentation-sphinx-black"></a>
